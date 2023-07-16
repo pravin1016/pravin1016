@@ -1,5 +1,6 @@
 
-![logo](https://github.com/pravin1016/pravin1016/blob/main/20230716_172439.jpg)
+![logo](https://github.com/pravin1016/pravin1016/blob/main/20230716_172439.png)
+
 <h1 align="center">Hi 👋, I'm PRAVIN SINH RANA</h1>
 <h3 align="center">WELCOME TO MY WORLD</h3>
 
