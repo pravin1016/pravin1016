@@ -1,3 +1,6 @@
+
+|[logo](https://github.com/pravin1016/pravin1016/blob/main/WhatsApp%20Image%202023-07-16%20at%204.34.25%20PM.jpeg)
+
 <h1 align="center">Hi 👋, I'm PRAVIN SINH RANA</h1>
 <h3 align="center">WELCOME TO MY WORLD</h3>
 
