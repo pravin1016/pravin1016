@@ -1,5 +1,5 @@
 
-<img src="https://github.com/pravin1016/pravin1016/blob/main/20230716_172439.png" alt="Italian Trulli">
+<img src="https://github.com/pravin1016/pravin1016/blob/main/20230716_172439.png" alt="com">
 
 
 <h1 align="center">Hi 👋, I'm PRAVIN SINH RANA</h1>
