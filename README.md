@@ -1,12 +1,12 @@
 
-|[logo](https://github.com/pravin1016/pravin1016/blob/main/20230716_172439.jpg)
+[logo] (https://github.com/pravin1016/pravin1016/blob/main/20230716_172439.jpg)
 
 <h1 align="center">Hi 👋, I'm PRAVIN SINH RANA</h1>
 <h3 align="center">WELCOME TO MY WORLD</h3>
 
 <img align="right" alt="coding" width="400" src="https://www.bing.com/th/id/OGC.f3b7d71cb676749b7c61050a41827c95?pid=1.7&rurl=https%3a%2f%2fwww.livewireindia.com%2fblog%2fwp-content%2fuploads%2f2019%2f06%2fElegantMaleCero-size_restricted.gif&ehk=27%2fnKyLtb0vMxowpjz8XBfRQm4dTKk0B6Uq0yL1c70c%3d">
 
-- 🔭 I’m currently working on **IOT BASE BRAIN CONTROL**
+- 🔭 I’m currently working on **IOT**
 
 - 🌱 I’m currently learning **FLUTTER**
 
