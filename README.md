@@ -49,6 +49,8 @@ Some of our latest projects from **STC Creative Club**:
 - **Contact**: +91-9313057803
 
 ---
+![Creative Animation](https://pin.it/5K1vOvryn))
+
 
 ## ✨ Join STC Creative Club
 
