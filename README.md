@@ -1,24 +1,53 @@
+# 👋 Welcome to My GitHub Profile!
+## Pravin Sinh Rana | Founder of STC Creative Club
+🌐 **Explore innovative tech projects in Robotics, IoT, and Automation!**  
+🚀 **Join the journey of discovery with STC Creative Club.**
 
-<img src="https://github.com/pravin1016/pravin1016/blob/main/20230716_172439.png" alt="com">
+![STC Creative Club Banner](https://github.com/pravin1016/HOME-AUTOMATION-BLYNK-BY-STC/blob/main/BLYNK%20BY%20STC%20(2).png)
 
+---
 
-<h1 align="center">Hi 👋, I'm PRAVIN SINH RANA</h1>
-<h3 align="center">WELCOME TO MY WORLD</h3>
+## 🔥 About Me
+- 💡 **Tech Enthusiast** with a passion for developing projects in **Robotics, IoT, Arduino, and Automation**.
+- 🎓 **Founder of STC Creative Club** – a community dedicated to empowering young minds through technology and creative projects.
+- 🌍 **Location**: Navsari, Gujarat, India
 
-<img align="right" alt="coding" width="400" src="https://www.bing.com/th/id/OGC.f3b7d71cb676749b7c61050a41827c95?pid=1.7&rurl=https%3a%2f%2fwww.livewireindia.com%2fblog%2fwp-content%2fuploads%2f2019%2f06%2fElegantMaleCero-size_restricted.gif&ehk=27%2fnKyLtb0vMxowpjz8XBfRQm4dTKk0B6Uq0yL1c70c%3d">
+---
 
-- 🔭 I’m currently working on **IOT**
+## 🛠️ Skills & Expertise
+- **Programming Languages**: C++, Python, JavaScript
+- **Platforms**: Arduino, NodeMCU, ESP32, Raspberry Pi
+- **Technologies**: IoT, Home Automation, Blynk, 3D Printing
 
-- 🌱 I’m currently learning **FLUTTER**
+---
 
-- 👨‍💻 All of my projects are available at [https://instagram.com/s.t.c_creative_club?igshid=MzNlNGNkZWQ4Mg==](https://instagram.com/s.t.c_creative_club?igshid=MzNlNGNkZWQ4Mg==)
+## 🌟 Featured Projects
+Here are some of the innovative projects from STC Creative Club:
+1. **[Hygienic Food Container](https://github.com/username/Hygienic-Food-Container)**  
+   A smart container for food hygiene management, detecting spoilage and ensuring freshness.
 
-- 📫 How to reach me **PRAVINSINDAL16@GMAIL.COM**
+2. **[Smart Bike Project](https://github.com/username/Smart-Bike-Project)**  
+   An intelligent bike with advanced features for enhanced safety and efficiency.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/https://instagram.com/s.t.c_creative_club?igshid=mznlngnkzwq4mg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/s.t.c_creative_club?igshid=mznlngnkzwq4mg==" height="30" width="40" /></a>
-</p>
+3. **[Hand Gesture Volume Control](https://github.com/username/Hand-Gesture-Volume-Control)**  
+   Control volume and media playback through hand gestures using OpenCV and Mediapipe.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+## 📞 Contact & Social
+- **Instagram**: [@S.T.C_CREATIVE_CLUB](https://instagram.com/S.T.C_CREATIVE_CLUB)
+- **Contact**: +91-9313057803
+
+---
+
+## ✨ Join the STC Creative Club
+Discover the limitless potential of technology and creativity!  
+🌟 **Follow us for updates on groundbreaking projects and workshops.**
+
+---
+
+_Thank you for visiting! Let's innovate and inspire together!_
+
+---
+
+**Connect with Pravin Sinh Rana and STC Creative Club to explore the future of technology!**
