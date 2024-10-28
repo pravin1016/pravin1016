@@ -4,6 +4,8 @@
 🌐 **Explore Innovative Projects in Robotics, IoT, and Automation!**  
 🚀 **Join the Journey of Discovery and Innovation with STC Creative Club!**
 
+![Creative Animation](https://github.com/pravin1016/pravin1016/blob/main/VK1F.gif)
+
 ---
 
 ## 🔥 About Me
